@@ -1,2 +1,3 @@
 plik1
 pierwsza zmiana boba
+druga zmiana boba
